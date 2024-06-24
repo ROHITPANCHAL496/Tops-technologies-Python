@@ -3,7 +3,7 @@
 num1 = int(input("Enter an Int1: "))
 num2 = int(input("Enter an Int2: "))
 num3 = 5
-if num1 == num2 or num1 + num2 == num3 or num1 - num2 == num3:  # Fixed the comparison operator
+if num1 == num2 or num1 + num2 == num3 or num1 - num2 == num3:  
     print("true")
 else:
     print("false")

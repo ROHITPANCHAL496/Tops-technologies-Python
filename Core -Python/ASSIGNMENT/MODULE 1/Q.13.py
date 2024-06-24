@@ -5,7 +5,7 @@ num2 = int(input("Enter an Int2: "))
 num3 = int(input("Enter an Int3: ")) 
 
 if num1 == num2 or num1 == num3 or num2 == num3:
-    add = 0  # Ensure 'add' is defined
+    add = 0  
 else:
     add = num1 + num2 + num3 
 
